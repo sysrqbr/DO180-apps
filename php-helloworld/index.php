@@ -1,4 +1,3 @@
 <?php
-print "Tasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdestasdfasdfasdfasdfasdfasdfasdfas:wq
-e " . PHP_VERSION . "\n";
+print "Teste" . PHP_VERSION . "\n";
 ?>
